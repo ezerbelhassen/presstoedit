@@ -1,0 +1,170 @@
+body{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 20px;
+    background-color: rgba(10,10,10,0.5);
+}
+#section1 {
+   border-right: 6px solid red;
+   border-color: red;
+}
+
+.titles {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+
+}
+
+#elements {
+    margin-left: 80px;
+}
+
+#used {
+    font-size: 20px;
+    text-align: center;
+}
+
+.why {
+    font-size: 20px;
+}
+
+#titre {
+    border: 0px solid red;
+    padding-right: 20px;
+}
+
+#titre:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+    padding-right: 20px;
+}
+
+#paragraphe {
+    border: 0px solid red;
+}
+
+#paragraphe:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    padding-right: 20px;
+}
+
+#lo {
+    border: 0px solid red;
+}
+
+#lo:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    padding-right: 20px;
+}
+
+#lno {
+border: 0px solid red;
+}
+
+#lno:hover {
+        background-color: grey;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    padding-right: 20px;
+}
+
+#image {
+border: 0px solid red;
+}
+
+#image:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    padding-right: 20px;
+}
+
+#video {
+border: 0px solid red;
+}
+
+#video:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    padding-right: 20px;
+}
+
+#lien {
+    border: 0px solid red;
+}
+
+#lien:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+    padding-right: 20px;}
+
+#audio {
+    border: 0px solid red;
+}
+
+#audio:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+    padding-right: 20px;
+}
+
+#formulaire {
+    border: 0px solid red;
+}
+
+#formulaire:hover {
+    background-color: grey;
+    transform: scale(1.2);
+    transition: all .3s ease-in-out;
+    padding-right: 20px;
+}
+
+.first {
+    display: none;
+}
+
+.second {
+    display: none;
+}
+
+.listed {
+    display: none;
+}
+
+.unlisted {
+    display: none;
+}
+
+.img {
+    display: none;
+}
+
+
+.vids {
+    width: 90%
+}
+
+#video1 {
+    display: none;
+}
+
+.imgu {
+    width: 90%
+}
+
+#lin1 {
+    display: none;
+}
+
+#audi {
+    display: none;
+}
